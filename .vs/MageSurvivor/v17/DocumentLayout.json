@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|c:\\program files\\unity\\unityprojeckts\\magesurvivor\\assets\\scripts\\enemy\\meleeenemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\meleeenemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|c:\\program files\\unity\\unityprojeckts\\magesurvivor\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\enemy\\enemyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\systems\\enemywavessystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\enemywavessystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\api\\bestwaveapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\bestwaveapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\installers\\gameinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\installers\\gameinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\player\\playerupgrades\\mageupgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerupgrades\\mageupgrades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\player\\mage\\mageattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\mage\\mageattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\player\\playerupgradesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerupgradesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\player\\playerui\\playerupgradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerui\\playerupgradeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\data\\upgradeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\upgradeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\assets\\scripts\\interfaces\\iplayerupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE82D662-53CC-6870-3C87-4C591DAB29E3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\iplayerupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:15:38.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeleeEnemyAttack.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\MeleeEnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\MeleeEnemyAttack.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\MeleeEnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\MeleeEnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:19:00.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAnimation.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\EnemyAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAnimation.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\EnemyAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAnimation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T16:18:49.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyMovement.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA7wEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:52:59.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BestWaveAPI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\API\\BestWaveAPI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\API\\BestWaveAPI.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\API\\BestWaveAPI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\API\\BestWaveAPI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:24:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyWavesSystem.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Systems\\EnemyWavesSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\EnemyWavesSystem.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Systems\\EnemyWavesSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\EnemyWavesSystem.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAxwMgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:14:59.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MageUpgrades.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\PlayerUpgrades\\MageUpgrades.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUpgrades\\MageUpgrades.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\PlayerUpgrades\\MageUpgrades.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUpgrades\\MageUpgrades.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T11:31:28.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MageAttack.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\Mage\\MageAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Mage\\MageAttack.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\Mage\\MageAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Mage\\MageAttack.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:52:50.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerUpgradeSystem.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\PlayerUpgradeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUpgradeSystem.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\PlayerUpgradeSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUpgradeSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:33:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerUpgradeUI.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\PlayerUI\\PlayerUpgradeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerUI\\PlayerUpgradeUI.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\PlayerUI\\PlayerUpgradeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerUI\\PlayerUpgradeUI.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:17:47.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpgradeOption.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Data\\UpgradeOption.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\UpgradeOption.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Data\\UpgradeOption.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\UpgradeOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:08:10.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T18:42:19.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPlayerUpgrade.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Interfaces\\IPlayerUpgrade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\IPlayerUpgrade.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Interfaces\\IPlayerUpgrade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\IPlayerUpgrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:33:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameInstaller.cs",
+              "DocumentMoniker": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Installers\\GameInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Installers\\GameInstaller.cs",
+              "ToolTip": "C:\\Program Files\\Unity\\UnityProjeckts\\MageSurvivor\\Assets\\Scripts\\Installers\\GameInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Installers\\GameInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T16:49:19.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
